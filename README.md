@@ -236,4 +236,4 @@ This repository serves as the official landing page for Winamp Lite. The softwar
 **Get the most recent version of Winamp Lite today!**
 
 ---
-**Last updated:** 2026-09-30 20:34:39 UTC
+**Last updated:** 2026-10-01 00:22:56 UTC
